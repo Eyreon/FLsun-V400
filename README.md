@@ -5,7 +5,7 @@ There have been many topics and posts around a few common faults of this machine
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
 My writing will assume you have an inkling of an idea of the workings of both Cura as 3dprinting.
 
-# some facts
+# some facts:
 
  - Out of the box the printer is solid, hardware wise. you might need to spend some time on belt tuning but other than that its fine.
  - Eventually ou might get sick of the bed and want to get an upgrade.
@@ -25,7 +25,7 @@ For the sake of simplicity I will only use CURA (5.1 at this time) as a referenc
 
 Additionally I will add useful links to builds for the printer and advanced user posts.
 
-# First steps
+# First steps:
 
 When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
 Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
