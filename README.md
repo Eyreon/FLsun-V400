@@ -4,27 +4,28 @@ Everything you need to know as a new V400 owner for quality prints.
 
 There have been many topics and posts around a few common faults of this machine.
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
-My writing will assume you have an inkling of an idea of the workings of both Cura as 3dprinting.
+My writing will assume you have an inkling of an idea of the workings of both Cura and 3d printing.
+Additionally I will add useful links to builds for the printer and advanced user posts.
 
 # some facts:
 
- - Out of the box the printer is solid, hardware wise. you might need to spend some time on belt tuning but other than that its fine.
- - Eventually ou might get sick of the bed and want to get an upgrade.
- - The stock slicer profile is not bad but there is way better.
+ - Out of the box the printer is solid hardware wise, you might need to spend some time on belt tuning but other than that its fine.
+ - Eventually you might get sick of the bed and want to get an upgrade.
+ - The stock slicer profile isn't bad but there are better profiles as this document will point out.
 
 
 # Some of the common issues out there:
 
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 -  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
-For the sake of simplicity I will only use CURA (5.1 at this time) as a reference. |||KEEP READING|||
-- Top layer quality > this one is a direct connect to #2 and will resolve itself when following my next steps.
+For the sake of simplicity I will only use CURA (5.1 at this time) as a reference.
+- Top layer quality > this one is a direct connection to the above and will resolve itself with the following steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
 - Layer shifts, mostly belt and speed related.
-- "Why can't I ssh login with flsun user and password", thgis one is mentioned further down here when we talk flashing the FLSun stock 'open image'.
+- "Why can't I SSH login with flsun user and password", this one is mentioned further down, when we talk flashing the FLSun stock 'open image'.
 
 
-Additionally I will add useful links to builds for the printer and advanced user posts.
+
 
 # First steps:
 
