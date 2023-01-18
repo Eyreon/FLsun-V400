@@ -12,6 +12,7 @@ Some of the common issues out there:
 For the sake of simplicity I will only use CURA (5.1 at this time) as a reference.
 - Top layer quality > this one is a direct connect to #2 and will resolve itself when following my next steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
+- "Why can't I ssh login with flsun user and password", thgis one is mentioned further down here when we talk flashing the FLSun stock 'open image'.
 
 
 Additionally I will add useful links to builds for the printer and advanced user posts.
