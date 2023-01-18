@@ -55,7 +55,7 @@ Next is important!
  - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Cura%20profile%20for%20PLA%20and%20PLA%2B.curaprofile I would like to thank @Amazon62 for sharing his work.
 
 
-# Advanced users.
+# Advanced users:
 
 Dan Nault has graced us with a complete re-work of stock image on the V400.
 His work is recorded over at his Gtihub and you might want to dig in to it if you make detailed prints.
