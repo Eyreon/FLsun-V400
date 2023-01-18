@@ -1,11 +1,11 @@
-# FLsun-V400 Beginners guide.
+# FLsun-V400 new user guide.
 Everything you need for quality prints.
 
 There have been many topics and posts around a few common faults of this machine.
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
 My writing will assume you have an inkling of an idea of the workings of both Cura as 3dprinting.
 
-Some of the common issues out there:
+# Some of the common issues out there:
 
 - The white stuff at the nozzle > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 -  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
@@ -17,14 +17,16 @@ For the sake of simplicity I will only use CURA (5.1 at this time) as a referenc
 
 Additionally I will add useful links to builds for the printer and advanced user posts.
 
+# First steps
 
+When you set up your printer  you will probably have noticed that the time is wrong, for you to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
+Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
 Lets start with using the FLSUN recovery image that enables SSH and access to the printers firmware.
+The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400.
 
-The image can be found here: 
 
-
-calibration:
+# calibration:
 
 This will be your bread and butter!
 The printers probing is a bit flawwed in the stock state so we will want to edit printer.CFG nto resolve this.
@@ -44,12 +46,10 @@ Next is important!
 
 
 
-When you have done this you will probably have noticed that the time is wrong, for you to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
-
-Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
 
-On to the fun stuff!
+# The good stuff
+
 Some handy improvements for your V400 that will make this machine even better!
 
 Some people that print high temp materials might want to build an enclosure, there are a few options here.
