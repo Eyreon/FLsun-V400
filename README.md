@@ -37,6 +37,7 @@ The printers probing is a bit flawwed in the stock state so we will want to edit
 
  - Probe and Z-offset calibration: https://www.klipper3d.org/Probe_Calibrate.html
  - Delta calibration: https://www.klipper3d.org/Delta_Calibrate.html
+ - Belt tuning: follow this great video that explains everything! https://www.youtube.com/watch?v=DR-R_uKlo0A
 
 Next is important! 
 
@@ -68,4 +69,5 @@ Special thanks go to the following people:
 
 - Amazon62 for the door design and testing, support him here: https://www.printables.com/social/308844-amazon62/about
 - @Johnjacky for the enclosure panels and risers, support him here: https://www.printables.com/social/346712-johnjacky/about
+- @Dennis G. Gignac for making a great tutorial on belt tensioning.
 - Special thanks for all the work on the stock image and getting this machine up to vanilla Klipper: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
