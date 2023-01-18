@@ -37,7 +37,7 @@ The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400
 # calibration:
 
 This will be your bread and butter!
-The printers probing is a bit flawwed in the stock state so we'll want to edit printer.CFG to resolve this.
+The printers probing is a bit flawed in the stock state so we'll want to edit printer.CFG to resolve this.
 This is why we set up the recovery image earlier so we can SSL to the speederpad.
 
  - Make sure to probe with your bed heated at the temperature you will mostly print at and let it soak for about 15 minutes.
