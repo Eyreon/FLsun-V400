@@ -5,6 +5,13 @@ There have been many topics and posts around a few common faults of this machine
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
 My writing will assume you have an inkling of an idea of the workings of both Cura as 3dprinting.
 
+# some facts
+
+ - Out of the box the printer is solid, hardware wise. you might need to spend some time on belt tuning but other than that its fine.
+ - Eventuelly ou might get sick of the bed and get an upgrade.
+ - The stock slicer profile is not bad but there is way better.
+
+
 # Some of the common issues out there:
 
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
@@ -63,9 +70,11 @@ https://www.printables.com/model/329660-flsun-v400-door-hinges-doors-updated/com
 If you decide to go for a full enclosure I would advice to do somethign about the ventilation of the printer, this will require some modding but is mandatory to avoid overheating of the motherboard.
 https://www.printables.com/model/325471-flsun-v400-upper-plate-risers and https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version again designed by the awesome @JohnJacky.
 
+If you get sick of the textured bed there are other options out there from a high quality product from Chine (YES ITS TRUE!) to the good old whambam plates for V400.
+Chinese quality plate found here: https://fr.aliexpress.com/item/1005004704770888.html?spm=a2g0o.order_list.order_list_main.5.21ef5e5bA4ru9y&gatewayAdapt=glo2fra&fbclid=IwAR181Uo8kQeK4by4LinQ7yQvpdIrPIqmV8EYL6W-IN-1eDoofl2kJ5Zf55A
 
 
-Special thanks go to the following people:
+# Special thanks go to the following people:
 
 - Amazon62 for the door design and testing, support him here: https://www.printables.com/social/308844-amazon62/about
 - @Johnjacky for the enclosure panels and risers, support him here: https://www.printables.com/social/346712-johnjacky/about
