@@ -1,4 +1,4 @@
-# FLsun-V400
+# FLsun-V400 Beginners guide.
 Everything you need for quality prints.
 
 There have been many topics and posts around a few common faults of this machine.
