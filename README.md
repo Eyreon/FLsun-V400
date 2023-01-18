@@ -6,6 +6,7 @@ To adress these I would like to add a knowledgebase and get all the printers out
 My writing will assume you have an inkling of an idea of the workings of both Cura as 3dprinting.
 
 Some of the common issues out there:
+
 1: The white stuff at the nozzle > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 
 2: Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
