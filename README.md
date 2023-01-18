@@ -1,8 +1,9 @@
 # FLsun-V400
-Everything you need for quality prints
+Everything you need for quality prints.
 
 There have been many topics and posts around a few common faults of this machine.
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
+My writing will assume you have an inkling of an idea of the workings of both Cura as 3dprinting.
 
 Some of the common issues out there:
 1: The white stuff at the nozzle > This is a silicone pase to keep the sock on the heatblock and nothing to worry about.
