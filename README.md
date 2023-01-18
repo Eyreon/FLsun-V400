@@ -7,9 +7,12 @@ My writing will assume you have an inkling of an idea of the workings of both Cu
 
 Some of the common issues out there:
 1: The white stuff at the nozzle > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
+
 2: Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
 For the sake of simplicity I will only use CURA (5.1 at this time) as a reference.
+
 3: Top layer quality > this one is a direct connect to #2 and will resolve itself when following my next steps.
+
 4: Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
 
 
