@@ -8,7 +8,7 @@ My writing will assume you have an inkling of an idea of the workings of both Cu
 # some facts
 
  - Out of the box the printer is solid, hardware wise. you might need to spend some time on belt tuning but other than that its fine.
- - Eventuelly ou might get sick of the bed and get an upgrade.
+ - Eventually ou might get sick of the bed and want to get an upgrade.
  - The stock slicer profile is not bad but there is way better.
 
 
@@ -19,6 +19,7 @@ My writing will assume you have an inkling of an idea of the workings of both Cu
 For the sake of simplicity I will only use CURA (5.1 at this time) as a reference. |||KEEP READING|||
 - Top layer quality > this one is a direct connect to #2 and will resolve itself when following my next steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
+- Layer shifts, mostly belt and speed related.
 - "Why can't I ssh login with flsun user and password", thgis one is mentioned further down here when we talk flashing the FLSun stock 'open image'.
 
 
@@ -26,7 +27,7 @@ Additionally I will add useful links to builds for the printer and advanced user
 
 # First steps
 
-When you set up your printer  you will probably have noticed that the time is wrong, for you to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
+When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
 Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
 Lets start with using the FLSUN recovery image that enables SSH and access to the printers firmware.
@@ -36,7 +37,8 @@ The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400
 # calibration:
 
 This will be your bread and butter!
-The printers probing is a bit flawwed in the stock state so we will want to edit printer.CFG nto resolve this.
+The printers probing is a bit flawwed in the stock state so we'll want to edit printer.CFG to resolve this.
+This is why we set up the recovery image earlier so we can SSL to the speederpad.
 
  - Make sure to probe with your bed heated at the temperature you will mostly print at and let it soak for about 15 minutes.
  - Change the bed mesh to 9x9 in the config.
