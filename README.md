@@ -30,7 +30,7 @@ When you set up your printer  you will probably have noticed that the time is wr
 Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
 Lets start with using the FLSUN recovery image that enables SSH and access to the printers firmware.
-The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400.
+The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400, then put it on a microSDcard using Belena etcher or some other tool as described in above guide.
 
 
 # calibration:
