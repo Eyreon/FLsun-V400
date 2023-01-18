@@ -26,8 +26,8 @@ This will be your bread and butter!
 The printers probing is a bit flawwed in the stock state so we will want to edit printer.CFG nto resolve this.
 
  - Make sure to probe with your bed heated at the temperature you will mostly print at and let it soak for about 15 minutes.
- - 1. Change the bed mesh to 9x9 in the config.
- - 2. Change the bed mesh points to 5 from 3. The first point that this sensor takes is always wrong.
+ - Change the bed mesh to 9x9 in the config.
+ - Change the bed mesh points to 5 from 3. The first point that this sensor takes is always wrong.
 
 
 
