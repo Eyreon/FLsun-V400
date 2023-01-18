@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/44564923/213299517-0aafb2f5-020b-4a4b-a91f-2f02d9a7c2b8.png)
 # FLsun-V400 new user guide.
 Everything you need as a new V400 owner for quality prints.
 
