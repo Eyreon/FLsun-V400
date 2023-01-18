@@ -62,7 +62,7 @@ His work is recorded over at his Gtihub and you might want to dig in to it if yo
 Find his repo here: https://github.com/danorder/OEM-VANILLA-V400-Klipper-
 
 
-# The good stuff
+# The good stuff:
 
 Some handy improvements for your V400 that will make this machine even better!
 
