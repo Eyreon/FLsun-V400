@@ -37,7 +37,7 @@ The printers probing is a bit flawwed in the stock state so we will want to edit
 Next is important! 
 
  - Add the following line in Cura at the start GCODE after G28 to actually load the meshes for the print, please use the following: 
-   BED_MESH_PROFILE LOAD=default > if you use a different naming convention for your printers config, please use that name instead.
+   <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
 
 
 
