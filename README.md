@@ -64,7 +64,6 @@ https://www.printables.com/model/325471-flsun-v400-upper-plate-risers and https:
 
 Special thanks go to the following people:
 
-<a href="hhttps://www.printables.com/social/308844-amazon62/about">Amazon62</a>
-- <href=@Amazon62 for the door design and testing, support him here: https://www.printables.com/social/308844-amazon62/about
+- Amazon62 for the door design and testing, support him here: https://www.printables.com/social/308844-amazon62/about
 - @Johnjacky for the enclosure panels and risers, support him here: https://www.printables.com/social/346712-johnjacky/about
 - Special thanks for all the work on the stock image and getting this machine up to vanilla Klipper: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
