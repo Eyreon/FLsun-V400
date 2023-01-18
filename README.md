@@ -1,5 +1,5 @@
 # FLsun-V400 new user guide.
-Everything you need for quality prints.
+Everything you need as a new V400 owner for quality prints.
 
 There have been many topics and posts around a few common faults of this machine.
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
