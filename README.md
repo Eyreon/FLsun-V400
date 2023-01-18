@@ -55,8 +55,8 @@ Next is important!
 
 # Advanced users.
 
-Dan Nault has graced us with a complete re-work of stock fntioning on the V400.
-His work is recorded over at his Gtihub and you might want to dig in to it if you do highly detailed prints.
+Dan Nault has graced us with a complete re-work of stock image on the V400.
+His work is recorded over at his Gtihub and you might want to dig in to it if you make detailed prints.
 Find his repo here: https://github.com/danorder/OEM-VANILLA-V400-Klipper-
 
 
