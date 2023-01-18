@@ -25,8 +25,6 @@ For the sake of simplicity I will only use CURA (5.1 at this time) as a referenc
 - "Why can't I SSH login with flsun user and password", this one is mentioned further down, when we talk flashing the FLSun stock 'open image'.
 
 
-
-
 # First steps:
 
 When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
