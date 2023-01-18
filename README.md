@@ -79,4 +79,5 @@ Chinese quality plate found here: https://fr.aliexpress.com/item/100500470477088
 - Amazon62 for the door design and testing, support him here: https://www.printables.com/social/308844-amazon62/about
 - @Johnjacky for the enclosure panels and risers, support him here: https://www.printables.com/social/346712-johnjacky/about
 - @Dennis G. Gignac for making a great tutorial on belt tensioning.
-- Special thanks for all the work on the stock image and getting this machine up to vanilla Klipper: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
+- A special thanks to @danorder for completely tuning this machine for crazy detail: https://github.com/danorder
+- Thanks for the work on the guide to get the stock image up to vanilla Klipper: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
