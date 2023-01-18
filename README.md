@@ -37,7 +37,7 @@ The printers probing is a bit flawwed in the stock state so we will want to edit
 
  - Probe and Z-offset calibration: https://www.klipper3d.org/Probe_Calibrate.html
  - Delta calibration: https://www.klipper3d.org/Delta_Calibrate.html
- - Belt tuning: follow this great video that explains everything! https://www.youtube.com/watch?v=DR-R_uKlo0A
+ - Belt tuning: follow this great video that explains everything! https://www.youtube.com/watch?v=DR-R_uKlo0A > printable tool found here > https://drive.google.com/drive/folders/1cPqHoQqRYM4s4bfQF_XUy9ShHSPXlSST
 
 Next is important! 
 
