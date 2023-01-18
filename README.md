@@ -48,3 +48,16 @@ When you have done this you will probably have noticed that the time is wrong, f
 Please follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
 
+On to the fun stuff!
+Some handy improvements for your V400 that will make this machine even better!
+
+Some people that print high temp materials might want to build an enclosure, there are a few options here.
+To reduce any cold drafts you can use side walls on 2/3 openings, you can find a nice setup for those here and thank you @JohnJacky for this awesome design.
+https://www.printables.com/model/322917-flsun-v400-enclosure-cut-pla-version
+
+If you want to go full enclosure you can add these doors designed and tested by the wonderful and talented @Amazon62 leave this guy a tip for his hardships!
+https://www.printables.com/model/329660-flsun-v400-door-hinges-doors-updated/comments
+If you decide to go for a full enclosure I would advice to do somethign about the ventilation of the printer, this will require some modding but is mandatory to avoid overheating of the motherboard.
+https://www.printables.com/model/325471-flsun-v400-upper-plate-risers and https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version again designed by the awesome @JohnJacky.
+
+
