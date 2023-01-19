@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/44564923/213299517-0aafb2f5-020b-4a4b-a91f-2f02d9a7c2b8.png)
 # FLsun-V400 new user guide.
 Everything you need to know as a new V400 owner for quality prints.
+Now this is not a guaranteed method but it covers most of the issues out there, nor will this talk about what happens with a lack of maintenance.
 
 There have been many topics and posts around a few common faults of this machine.
 To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
