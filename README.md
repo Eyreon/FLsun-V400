@@ -4,8 +4,8 @@ Everything you need to know as a new V400 owner for quality prints.
 
 Now this is not a guaranteed method but it covers most of the issues out there, nor will this talk about what happens with a lack of maintenance.
 
-There have been many topics and posts around a few common faults of this machine.
-To adress these I would like to add a knowledgebase and get all the printers out there to work as they should.
+There have been many topics and posts around a few common shortcomings of this machine.
+To adress these I would like to create knowledgebase and get all the printers out there to work as they should.
 My writing will assume you have an inkling of an idea of the workings of both Cura and 3d printing,
 additionally I will add useful links to builds for the printer and advanced user posts.
 
