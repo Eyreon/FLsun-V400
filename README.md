@@ -57,6 +57,7 @@ This is why we set up the recovery image earlier so we can SSL to the speederpad
  - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Cura%20profile%20for%20PLA%20and%20PLA%2B.curaprofile I would like to thank @Amazon62 for sharing his work.
  - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with regular infill due to the way the effector moves.
  - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
+ - A great print tuning guide here: https://ellis3dp.com/Print-Tuning-Guide/
 
 
 # Filament:
