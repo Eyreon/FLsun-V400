@@ -57,7 +57,7 @@ Next is important!
  - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Cura%20profile%20for%20PLA%20and%20PLA%2B.curaprofile I would like to thank @Amazon62 for sharing his work.
 
 
-#Filament:
+# Filament:
 
 Forget all you know about filament from your old printer, the V400 is fast so it eats through spindles like crazy.
 Due to the above you need to set temperature and flow accordingly, having said this I strongly urge you to print temperature towers and flow towers, only then will you be able to determine the right settings for your filament.
