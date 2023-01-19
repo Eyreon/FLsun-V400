@@ -50,11 +50,13 @@ This is why we set up the recovery image earlier so we can SSL to the speederpad
  - Delta calibration: https://www.klipper3d.org/Delta_Calibrate.html
  - Belt tuning: follow this great video that explains everything! https://www.youtube.com/watch?v=DR-R_uKlo0A > printable tool found here > https://drive.google.com/drive/folders/1cPqHoQqRYM4s4bfQF_XUy9ShHSPXlSST
 
-Next is important! 
+# Slicer settings: 
 
  - Add the following line in Cura at the start GCODE after G28 to actually load the bed mesh for the print, please use the following: 
    <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
  - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Cura%20profile%20for%20PLA%20and%20PLA%2B.curaprofile I would like to thank @Amazon62 for sharing his work.
+ - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with regular infill due to the way the effector moves.
+ - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
 
 
 # Filament:
