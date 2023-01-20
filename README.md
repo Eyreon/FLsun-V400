@@ -2,7 +2,7 @@
 # FLsun-V400 new user guide.
 Everything you need to know as a new V400 owner for quality prints.
 
-Now this is not a guaranteed method but it covers most of the issues out there, nor will this talk about what happens with a lack of maintenance.
+Now this is not a guaranteed method but it covers most of the issues out there and staying close to FlSun stock as much as possible, nor will this talk about what happens with a lack of maintenance.
 
 There have been many topics and posts around a few common shortcomings of this machine.
 To adress these I would like to create knowledgebase and get all the printers out there to work as they should.
