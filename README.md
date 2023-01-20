@@ -75,8 +75,7 @@ Due to the above you need to set temperature and flow accordingly, having said t
 
  - The bed temperature is usually 3-5 degrees below what Klipper shows, so consider slightly bumping the bed temp up by about 5 degrees if you are still getting poor adhesion - an entered value of 65C seems to work pretty well
 
- - Quick note that "first layer horizontal layer expansion" can get rid of or can significantly "elephant's foot"
- - Adding that pressure advance calibration is one of the most important ones to do and it's fairly straightforward and can fix ringing and odd looking corners on prints. I believe the stock value is 0.02 if you ever want to go back to it after messing with it.
+  - Adding that pressure advance calibration is one of the most important ones to do and it's fairly straightforward and can fix ringing and odd looking corners on prints. I believe the stock value is 0.02 if you ever want to go back to it after messing with it.
 
 # Advanced users:
 
