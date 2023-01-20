@@ -9,11 +9,12 @@ To adress these I would like to create knowledgebase and get all the printers ou
 My writing will assume you have an inkling of an idea of the workings of both Cura and 3d printing,
 additionally I will add useful links to builds for the printer and advanced user posts.
 
-# some facts:
+# some facts and misconceptions:
 
  - Out of the box the printer is solid hardware wise, you might need to spend some time on belt tuning but other than that its fine.
  - Eventually you might get sick of the bed and want to get an upgrade.
  - The stock slicer profile isn't bad but there are better profiles as this document will point out.
+ - Marketing states 400mm/s, in reality you never really get these speeds and if you do the quality will drop depending on model.
 
 
 # Some of the common issues out there:
