@@ -78,9 +78,6 @@ Due to the above you need to set temperature and flow accordingly, having said t
  - Quick note that "first layer horizontal layer expansion" can get rid of or can significantly "elephant's foot"
  - Adding that pressure advance calibration is one of the most important ones to do and it's fairly straightforward and can fix ringing and odd looking corners on prints. I believe the stock value is 0.02 if you ever want to go back to it after messing with it.
 
-If you've tried everything else and don't get consistent results, consider a Bondtech CHT 0.4mm or 0.6mm nozzle instead. If you go for a larger nozzle, you will need to adjust pressure advance with a pressure advance tower and potentially and the main change in the slicer is the "line width" to something in the 0.5 to 0.62 range, though you also increase your layer heights for faster prints and thicker layer lines as well. You may also need to change your flow rate potentially as well.
-
-
 # Advanced users:
 
 Dan Nault has graced us with a complete re-work of stock image on the V400.
