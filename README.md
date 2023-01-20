@@ -25,6 +25,7 @@ For the sake of simplicity I will only use CURA (5.1 at this time) as a referenc
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
 - Layer shifts, mostly belt and speed related.
 - "Why can't I SSH login with flsun user and password", this one is mentioned further down, when we talk flashing the FLSun stock 'open image'.
+- Poor bed adhesion after a short time.
 
 
 # First steps:
@@ -59,11 +60,25 @@ This is why we set up the recovery image earlier so we can SSL to the speederpad
  - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
  - A great print tuning guide here: https://ellis3dp.com/Print-Tuning-Guide/
 
+ - If you've tried everything else and don't get consistent quality, consider a Bondtech CHT 0.4mm or 0.6mm nozzle instead. If you go for a larger nozzle, you will need to adjust pressure advance with a pressure advance tower and potentially  the main change in the slicer is the "line width" to something in the 0.5 to 0.62 range, though you also increase your layer heights for faster prints and thicker layer lines as well. You may also need to change your flow rate as well.
+
 
 # Filament:
 
 Forget all you know about filament from your old printer, the V400 is fast so it eats through spindles like crazy.
 Due to the above you need to set temperature and flow accordingly, having said this I strongly urge you to print temperature towers and flow towers, only then will you be able to determine the right settings for your filament.
+
+# Bed adhesion:
+
+ - After some time this could be a thing for some of users, to counter this: 
+   Mix a Light amount of dish soap with warm water and scrub the surface wit a rough sponge perhaps following with alcohol, this should remove any debris and some grease that got stuck on the surface. 
+
+ - The bed temperature is usually 3-5 degrees below what Klipper shows, so consider slightly bumping the bed temp up by about 5 degrees if you are still getting poor adhesion - an entered value of 65C seems to work pretty well
+
+ - Quick note that "first layer horizontal layer expansion" can get rid of or can significantly "elephant's foot"
+ - Adding that pressure advance calibration is one of the most important ones to do and it's fairly straightforward and can fix ringing and odd looking corners on prints. I believe the stock value is 0.02 if you ever want to go back to it after messing with it.
+
+If you've tried everything else and don't get consistent results, consider a Bondtech CHT 0.4mm or 0.6mm nozzle instead. If you go for a larger nozzle, you will need to adjust pressure advance with a pressure advance tower and potentially and the main change in the slicer is the "line width" to something in the 0.5 to 0.62 range, though you also increase your layer heights for faster prints and thicker layer lines as well. You may also need to change your flow rate potentially as well.
 
 
 # Advanced users:
