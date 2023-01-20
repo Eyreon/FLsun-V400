@@ -14,7 +14,7 @@ additionally I will add useful links to builds for the printer and advanced user
  - Out of the box the printer is solid hardware wise, you might need to spend some time on belt tuning but other than that its fine.
  - Eventually you might get sick of the bed and want to get an upgrade.
  - The stock slicer profile isn't bad but there are better profiles as this document will point out.
- - Marketing states 400mm/s, in reality you never really get these speeds and if you do the quality will drop depending on model.
+ - Marketing states 400mm/s, in reality you never really get these speeds and if you do the quality will drop depending on model, there are mechanical laws we cannot cross or things will break.
 
 
 # Some of the common issues out there:
