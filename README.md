@@ -34,6 +34,8 @@ For the sake of simplicity I will only use CURA (5.1 at this time) as a referenc
 When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
 Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
+**Update 15-03-2023** I have no gone to full vanilla Klipper and the printer tuning is a lot better, getting much better first layers and it is quite the difference from stock.
+
 Lets start with using the FLSUN recovery image that enables SSH and access to the printers firmware.
 The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400, then put it on a microSDcard using Belena etcher or some other tool as described in above guide.
 
@@ -43,6 +45,8 @@ The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400
 This will be your bread and butter!
 The printers probing is a bit flawed in the stock state so we'll want to edit printer.CFG to resolve this.
 This is why we set up the recovery image earlier so we can SSL to the speederpad.
+**For advanced users** The Flsun version of Klipper doesn't properly tram and thus resulting in poor calibration.
+If you are up to the task I would suggest going to vanilla Klipper state, for me the experience was stellar!
 
  - Make sure to probe with your bed heated at the temperature you will mostly print at and let it soak for about 15 minutes.
  - Change the bed mesh to 9x9 in the config.
@@ -57,7 +61,7 @@ This is why we set up the recovery image earlier so we can SSL to the speederpad
  - Add the following line in Cura at the start GCODE after G28 to actually load the bed mesh for the print, please use the following: 
    <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
  - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Cura%20profile%20for%20PLA%20and%20PLA%2B.curaprofile I would like to thank @Amazon62 for sharing his work.
- - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with regular infill due to the way the effector moves.
+ - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with grid infill due to the way the effector moves at this high speed. Also not that Combing shoule be off.
  - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
  - A great print tuning guide here: https://ellis3dp.com/Print-Tuning-Guide/
 
@@ -77,6 +81,8 @@ Due to the above you need to set temperature and flow accordingly, having said t
  - The bed temperature is usually 3-5 degrees below what Klipper shows, so consider slightly bumping the bed temp up by about 5 degrees if you are still getting poor adhesion - an entered value of 65C seems to work pretty well
 
   - Adding that pressure advance calibration is one of the most important ones to do and it's fairly straightforward and can fix ringing and odd looking corners on prints. I believe the stock value is 0.02 if you ever want to go back to it after messing with it.
+   
+  - Bed adhesion issues can also be caused by a worn out nozzle.
 
 # Advanced users:
 
