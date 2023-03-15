@@ -21,7 +21,7 @@ additionally I will add useful links to builds for the printer and advanced user
 
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 -  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
-For the sake of simplicity I will only use CURA (5.1 at this time) as a reference.
+For the sake of simplicity I will only use CURA (5.3 at this time and even using the Cura stock profile) as a reference.
 - Top layer quality > this one is a direct connection to the above and will resolve itself with the following steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
 - Layer shifts, mostly belt and speed related.
