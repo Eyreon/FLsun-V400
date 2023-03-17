@@ -24,7 +24,7 @@ additionally I will add useful links to builds for the printer and advanced user
 For the sake of simplicity I will only use CURA (5.3 at this time and even using the Cura stock profile) as a reference.
 - Top layer quality > this one is a direct connection to the above and will resolve itself with the following steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
-- Layer shifts, mostly belt and speed related.
+- Layer shifts, mostly belt, speed and slicer related, for Cura: TURN OFF JERK!!
 - "Why can't I SSH login with flsun user and password", this one is mentioned further down, when we talk flashing the FLSun stock 'open image'.
 - Poor bed adhesion after a short time.
 
