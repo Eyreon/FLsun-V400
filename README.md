@@ -9,7 +9,7 @@ To adress these I would like to create knowledgebase and get all the printers ou
 My writing will assume you have an inkling of an idea of the workings of both Cura and 3d printing,
 additionally I will add useful links to builds for the printer and advanced user posts.
 
-# some facts and misconceptions:
+# Some facts and misconceptions:
 
  - Out of the box the printer is solid hardware wise, you might need to spend some time on belt tuning but other than that its fine.
  - Eventually you might get sick of the bed and want to get an upgrade.
@@ -40,7 +40,7 @@ Lets start with using the FLSUN recovery image that enables SSH and access to th
 The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400, then put it on a microSDcard using Belena etcher or some other tool as described in above guide.
 
 
-# calibration:
+# Calibration:
 
 This will be your bread and butter!
 The printers probing is a bit flawed in the stock state so we'll want to edit printer.CFG to resolve this.
