@@ -14,14 +14,14 @@ additionally I will add useful links to builds for the printer and advanced user
  - Out of the box the printer is solid hardware wise, you might need to spend some time on belt tuning but other than that its fine.
  - Eventually you might get sick of the bed and want to get an upgrade.
  - The stock slicer profile isn't bad but there are better profiles as this document will point out.
- - Marketing states 400mm/s, in reality you never really get these speeds and if you do the quality will drop depending on model, there are mechanical laws we cannot cross or things will break.
+ - Marketing states 400mm/s, in reality you never really get these speeds and if you do the quality will drop depending on model, there are mechanical laws we cannot ignore or things will break.
 
 
 # Some of the common issues out there:
 
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 -  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
-For the sake of simplicity I will only use CURA (5.3 at this time and even using the Cura stock profile) as a reference.
+For the sake of simplicity I will only use CURA (5.2.2 at this time and even using the Cura stock profile) as a reference.
 - Top layer quality > this one is a direct connection to the above and will resolve itself with the following steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally.
 - Layer shifts, mostly belt, speed and slicer related, for Cura: TURN OFF JERK!!
@@ -34,10 +34,10 @@ For the sake of simplicity I will only use CURA (5.3 at this time and even using
 When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
 Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
 
-**Update 15-03-2023** I have no gone to full vanilla Klipper and the printer tuning is a lot better, getting much better first layers and it is quite the difference from stock.
+**Update 15-03-2023** I have now gone to full vanilla Klipper and the printer tuning is a lot better, getting much better first layers and it is quite the difference from stock.
 
 Lets start with using the FLSUN recovery image that enables SSH and access to the printers firmware.
-The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400, then put it on a microSDcard using Belena etcher or some other tool as described in above guide.
+The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400, then put it on a microSDcard using Balena etcher or some other tool as described in above guide.
 
 
 # Calibration:
