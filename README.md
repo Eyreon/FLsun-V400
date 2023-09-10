@@ -123,6 +123,7 @@ https://www.printables.com/model/325471-flsun-v400-upper-plate-risers and https:
 
 If you get sick of the textured bed there are other options out there from a high quality product from China (YES ITS TRUE!) to the good old whambam plates for V400.
 Chinese quality plate found here: [here](https://fr.aliexpress.com/item/1005004704770888.html?spm=a2g0o.order_list.order_list_main.5.21ef5e5bA4ru9y&gatewayAdapt=glo2fra&fbclid=IwAR181Uo8kQeK4by4LinQ7yQvpdIrPIqmV8EYL6W-IN-1eDoofl2kJ5Zf55A)
+
 Or a special textured psychedelic [here]([https://fr.aliexpress.com/item/1005004704770888.html?spm=a2g0o.order_list.order_list_main.5.21ef5e5bA4ru9y&gatewayAdapt=glo2fra&fbclid=IwAR181Uo8kQeK4by4LinQ7yQvpdIrPIqmV8EYL6W-IN-1eDoofl2kJ5Zf55A](https://nl.aliexpress.com/item/1005005565234921.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=20948198462&aff_fcid=33f6dcd558f84efe843ae0d112f8afc2-1694119672746-03944-_mPC7tBS&tt=MG&fbclid=IwAR0IvANz1w_joI5dVWgV00WTMydBLqqBUgcmaPvtTh9p60ptynj7vjDfFSY&aff_fsk=_mPC7tBS&aff_platform=default&sk=_mPC7tBS&aff_trace_key=33f6dcd558f84efe843ae0d112f8afc2-1694119672746-03944-_mPC7tBS&shareId=20948198462&businessType=ProductDetail&platform=AE&terminal_id=3ab9faa606234de4918066370bd53810&afSmartRedirect=y&gatewayAdapt=4itemAdapt))
 
 For better overhangs there is an improved fanduct out there, if you own a resin printer use that to print these: https://www.printables.com/model/291550-flsun-v400-improved-fanduct/files?fbclid=IwAR3GSVYO-2vj4ZLZz9CZFkRwCVIPRUOB_Ve5Hu148csf0PxKwyvwWEzRPyk
