@@ -1,5 +1,9 @@
 ![image](https://github.com/Eyreon/FLsun-V400/assets/44564923/da84581f-0058-4f6e-988e-9b926982a9ce)
 
+# **DISCLAIMER**
+**I am merely creating a starter guide for people that are new or have some problems, I am not your personal technical supprt rep to poke with every little thing you think is out of whack. Nor am I reesponsible for any damages you might caus by mishandling any of the below information.**
+
+
 # FLsun-V400 new user guide.
 Everything you need to know as a new V400 owner for quality prints.
 
