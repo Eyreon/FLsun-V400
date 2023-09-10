@@ -20,7 +20,7 @@ additionally I will add useful links to builds for the printer and advanced user
 
 # Some of the common issues out there:
 
-- __**Firmware update 1.4 sadly is a regression over the 1.2 update which had SSH enables, 1.4 does not have SSH eneabled, if you want to tinker you best wait for an open version of the firmware to be released.**__
+- ***Firmware update 1.4 sadly is a regression over the 1.2 update which had SSH enables, 1.4 does not have SSH eneabled, if you want to tinker you best wait for an open version of the firmware to be released.***
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 -  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
 For the sake of simplicity I will only use CURA (5.2.2 at this time and even using the Cura stock profile) as a reference.
