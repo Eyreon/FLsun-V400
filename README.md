@@ -16,6 +16,7 @@ additionally I will add useful links to builds for the printer and advanced user
  - Eventually you might get sick of the bed and want to get an upgrade.
  - The stock slicer profile isn't bad but there are better profiles as this document will point out.
  - Marketing states 400mm/s, in reality you never really get these speeds and if you do the quality will drop depending on model, there are mechanical laws we cannot ignore or things will break.
+ - **If you keep having issues with your prints and your printer is well calibrated, this can be model related. slow down your print by a couple of MS (steps of 50 each time or so) to see if they go away.**
 
 
 # Some of the common issues out there:
