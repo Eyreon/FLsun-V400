@@ -34,13 +34,12 @@ For the sake of simplicity I will only use CURA (5.2.2 at this time and even usi
 
 # First steps:
 
-When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer.
-Follow this link: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
+When you set up your printer you will probably have noticed that the time is set wrong, to correct this you can follow another github by Guilouz, this will also offer you the option to go full vanilla Klipper and add some other features to the machine like an ADXL accelerometer. [Find it here](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad)
 
 **Update 15-03-2023** I have now gone to full vanilla Klipper and the printer tuning is a lot better, getting much better first layers and it is quite the difference from stock.
 
 Lets start with using the FLSUN recovery image that enables SSH and access to the printers firmware.
-The image can be found here: https://flsun3d.com/pages/speeder-pad > Select V400, then put it on a microSDcard using Balena etcher or some other tool as described in above guide.
+[The image can be found here](https://flsun3d.com/pages/speeder-pad) > Select V400, then put it on a microSDcard using Balena etcher, raspberry pi imager or some other tool as described in above guide.
 
 
 # Calibration:
