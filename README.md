@@ -110,6 +110,8 @@ Now this guide expects you to know about vanilla Klipper and advanced 3d printin
 
 Some handy improvements for your V400 that will make this machine even better!
 
+Frame vibration noise (usually in spreadcycle mode) can be countered by printing a  couple of vibration dampening feet, older Delta users know these by heart, have a look at these [squashball vibration dampening feet](https://www.printables.com/model/459474/files#preview)
+
 Some people that print high temp materials might want to build an [enclosure](https://www.printables.com/model/322917-flsun-v400-enclosure-cut-pla-version), there are a few options here.
 To reduce any cold drafts you can use side walls on 2/3 openings, you can find a nice setup for those here and thank you @JohnJacky for this awesome design.
 
