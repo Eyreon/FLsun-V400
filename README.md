@@ -128,8 +128,8 @@ For better overhangs there is an improved fanduct out there, if you own a resin 
 
 # Special thanks go to the following people:
 
-- Amazon62 for the door design and testing, support him here: https://www.printables.com/social/308844-amazon62/about
-- @Johnjacky for the enclosure panels and risers, support him here: https://www.printables.com/social/346712-johnjacky/about
-- @Dennis G. Gignac for making a great tutorial on belt tensioning.
-- A special thanks to @danorder for completely tuning this machine for crazy detail: https://github.com/danorder
-- Thanks for the work on the guide to get the stock image up to vanilla Klipper: https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad
+- Amazon62 for the door design and testing, support him [here](https://www.printables.com/social/308844-amazon62/about)
+- @Johnjacky for the enclosure panels and risers, support him [here](https://www.printables.com/social/346712-johnjacky/about)
+- @Dennis G. Gignac for making a great [tutorial](https://www.youtube.com/watch?v=DR-R_uKlo0A) on belt tensioning.
+- A special thanks to [@danorder](https://github.com/danorder) for completely tuning this machine for crazy detail. 
+- Thanks for the work on the guide to get the stock image up to vanilla Klipper [Guilouz](https://github.com/Guilouz/Klipper-Flsun-Speeder-Pad) 
