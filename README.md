@@ -100,7 +100,7 @@ Due to the above you need to set temperature and flow accordingly, having said t
 # Advanced users:
 
 Dan Nault has graced us with a complete re-work of stock image on the V400.
-His work is recorded over at his Gtihub and you might want to dig in to it if you make detailed prints.
+His work is recorded over at his Github and you might want to dig in to it if you make detailed prints.
 Find his repo here: https://github.com/danorder/OEM-VANILLA-V400-Klipper-
 
 
