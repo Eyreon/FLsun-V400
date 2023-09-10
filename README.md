@@ -122,7 +122,7 @@ If you decide to go for a full enclosure I would advice to do something about th
 https://www.printables.com/model/325471-flsun-v400-upper-plate-risers and https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version again designed by the awesome @JohnJacky.
 
 If you get sick of the textured bed there are other options out there from a high quality product from China (YES ITS TRUE!) to the good old whambam plates for V400.
-Chinese quality plate found here: https://tinyurl.com/Energetic-sheet
+Chinese quality plate found here: [here](https://fr.aliexpress.com/item/1005004704770888.html?spm=a2g0o.order_list.order_list_main.5.21ef5e5bA4ru9y&gatewayAdapt=glo2fra&fbclid=IwAR181Uo8kQeK4by4LinQ7yQvpdIrPIqmV8EYL6W-IN-1eDoofl2kJ5Zf55A)
 Or a special textured psychedelic plate : https://tinyurl.com/Psychedelic-plate
 
 For better overhangs there is an improved fanduct out there, if you own a resin printer use that to print these: https://www.printables.com/model/291550-flsun-v400-improved-fanduct/files?fbclid=IwAR3GSVYO-2vj4ZLZz9CZFkRwCVIPRUOB_Ve5Hu148csf0PxKwyvwWEzRPyk
