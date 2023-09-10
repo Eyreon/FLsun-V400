@@ -23,7 +23,7 @@ additionally I will add useful links to builds for the printer and advanced user
 
 - ***Firmware update 1.4 sadly is a regression over the 1.2 update which had SSH enables, 1.4 does not have SSH eneabled, if you want to tinker you best wait for an open version of the firmware to be released.*** if you want to continue and update anyway you can follow [FLsuns guide.](https://github.com/Flsun3d/Flsun-V400?fbclid=IwAR0yW5WNQDOExDn0Uh6Nz9IUmZU7xwJU5HudTJji6Ol8PheAU1mVd4CAubI)
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about, newer versions of the sock no longer have this.
--  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
+-  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting, more about this later on in this GIT.
 For the sake of simplicity I will only use CURA (5.4 at this time and even using the Cura stock profile) as a reference.
 - Top layer quality > this one is a direct connection to the above and will resolve itself with the following steps.
 - Belt tension, there are many different opinions around this one, but there is an option to set them all equally covered later on in this guide.
