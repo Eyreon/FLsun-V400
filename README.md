@@ -117,7 +117,7 @@ To reduce any cold drafts you can use side walls on 2/3 openings, you can find a
 If you want to go full enclosure you can add these [doors](https://www.printables.com/model/329660-flsun-v400-door-hinges-doors-updated/comments) designed and tested by the wonderful and talented @Amazon62 leave this guy a tip for his hardships!
 
 
-If you decide to go for a full enclosure I would advice to do something about the [ventilation](https://www.printables.com/model/325471-flsun-v400-upper-plate-risers and https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version) of the printer, this will require some modding but is mandatory to avoid overheating of the motherboard.
+If you decide to go for a full enclosure I would advice to do something about the [ventilation](https://www.printables.com/model/325471-flsun-v400-upper-plate-risers) [and]( https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version) of the printer, this will require some modding but is mandatory to avoid overheating of the motherboard.
 Again designed by the awesome @JohnJacky.
 
 If you get sick of the textured bed there are other options out there from a high quality product from China (YES ITS TRUE!) to the good old whambam plates for V400.
