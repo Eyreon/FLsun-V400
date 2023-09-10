@@ -103,6 +103,8 @@ Dan Nault has graced us with a complete re-work of stock image on the V400.
 His work is recorded over at his Github and you might want to dig in to it if you make detailed prints.
 Find his repo here: https://github.com/danorder/OEM-VANILLA-V400-Klipper-
 
+Now this guide expects you to know about vanilla Klipper and advanced 3d printing, this is **NOT** for any beginner.
+
 
 # The good stuff:
 
