@@ -69,7 +69,7 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
 
   ## Cura:
 
- - Use Cura 5.4, 5.3 has a bug which results in zits and blobs all over the print.
+ - **Use Cura 5.4**, Cura 5.3 has a bug which results in zits and blobs all over the print.
 
  - Add the following line in Cura at the start GCODE after G28 to actually load the bed mesh for the print, please use the following: 
    <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
