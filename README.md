@@ -20,7 +20,7 @@ additionally I will add useful links to builds for the printer and advanced user
 
 # Some of the common issues out there:
 
-- **Firmware update 1.4 sadly is a regression over the 1.2 update which had SSH enables, 1.4 does not have SSH eneabled, if you want to tinker you best wait for an open version of the firmware to be released.**
+- __**Firmware update 1.4 sadly is a regression over the 1.2 update which had SSH enables, 1.4 does not have SSH eneabled, if you want to tinker you best wait for an open version of the firmware to be released.**__
 - The white stuff at the nozzle? > This is a silicone glue to keep the sock on the heatblock and nothing to worry about.
 -  Nozzle dragging > This is one of the biggest frustrations to users out there and it seems to revolve around proper calibration and software setting.
 For the sake of simplicity I will only use CURA (5.2.2 at this time and even using the Cura stock profile) as a reference.
@@ -60,14 +60,14 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
 
 # Slicer settings: 
 
-  **Orcaslicer:**
+  __**Orcaslicer:**__
 
  - Orcaslicer comes with a great standard profile out of the box, ideal for beginners.
  - After an initial setup and calibration of the printer you should be all good to go after two minor changes to the basic profile.
  - The minor adjustments would be to change to either lines or gyroid infill, same rule applies here 15% for smaller prints and 25% for larger prints.
  - add this to your gcode after G28 <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
 
-  **Cura:**
+  __**Cura:**__
 
  - Use Cura 5.4, 5.3 has a bug which results in zits and blobs all over the print.
 
