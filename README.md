@@ -58,10 +58,21 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
 
 # Slicer settings: 
 
+  # Orcaslicer:
+
+ - Orcaslicer comes with a great standard profile out of the box, ideal for beginners.
+ - After an initial setup and calibration of the printer you should be all good to go after two minor changes to the basic profile.
+ - The minor adjustments would be to change to either lines or gyroid infill, same rule applies here 15% for smaller prints and 25% for larger prints.
+ - add this to your gcode after G28 <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
+
+  # Cura:
+
+ - Use Cura 5.4, 5.3 has a bug which results in zits and blobs all over the print.
+
  - Add the following line in Cura at the start GCODE after G28 to actually load the bed mesh for the print, please use the following: 
    <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
  - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Non%20scraping%20profile%20for%20Cura%205.3.curaprofile I would like to thank @Amazon62 for sharing his work.
- - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with grid infill due to the way the effector moves at this high speed. Also not that Combing shoule be off.
+ - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with grid infill due to the way the effector moves at this high speed. Also note that Combing shoule be off.
  - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
  - A great print tuning guide here: https://ellis3dp.com/Print-Tuning-Guide/
 
