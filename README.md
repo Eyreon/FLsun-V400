@@ -60,14 +60,14 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
 
 # Slicer settings: 
 
-  __**Orcaslicer:**__
+  ## Orcaslicer:
 
  - Orcaslicer comes with a great standard profile out of the box, ideal for beginners.
  - After an initial setup and calibration of the printer you should be all good to go after two minor changes to the basic profile.
  - The minor adjustments would be to change to either lines or gyroid infill, same rule applies here 15% for smaller prints and 25% for larger prints.
  - add this to your gcode after G28 <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
 
-  __**Cura:**__
+  ## Cura:
 
  - Use Cura 5.4, 5.3 has a bug which results in zits and blobs all over the print.
 
