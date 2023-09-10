@@ -55,9 +55,9 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
  - Change the bed mesh to 9x9 in the config.
  - Change the bed mesh points to 5 from 3. The first point that this sensor takes is always wrong.
 
- - Probe and Z-offset calibration: https://www.klipper3d.org/Probe_Calibrate.html
- - Delta calibration: https://www.klipper3d.org/Delta_Calibrate.html
- - Belt tuning: follow this great video that explains everything! https://www.youtube.com/watch?v=DR-R_uKlo0A > printable tool found here > https://drive.google.com/drive/folders/1cPqHoQqRYM4s4bfQF_XUy9ShHSPXlSST
+ - [Probe and Z-offset calibration](https://www.klipper3d.org/Probe_Calibrate.html)
+ - [Delta calibration](https://www.klipper3d.org/Delta_Calibrate.html)
+ - Belt tuning: follow [this](https://www.youtube.com/watch?v=DR-R_uKlo0A) great video that explains everything! > printable tool found [here](https://drive.google.com/drive/folders/1cPqHoQqRYM4s4bfQF_XUy9ShHSPXlSST)
 
 # Slicer settings: 
 
@@ -74,10 +74,10 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
 
  - Add the following line in Cura at the start GCODE after G28 to actually load the bed mesh for the print, please use the following: 
    <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
- - Please find the profile I use in cura and feel free to import it: https://github.com/Eyreon/FLsun-V400/blob/main/Non%20scraping%20profile%20for%20Cura%205.3.curaprofile I would like to thank @Amazon62 for sharing his work.
+ - Please find the profile I use in cura and feel free to [import](https://github.com/Eyreon/FLsun-V400/blob/main/Non%20scraping%20profile%20for%20Cura%205.3.curaprofile) I would like to thank @Amazon62 for sharing his work.
  - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with grid infill due to the way the effector moves at this high speed. Also note that Combing shoule be off.
  - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
- - A great print tuning guide here: https://ellis3dp.com/Print-Tuning-Guide/
+ - A great print tuning guide [here](https://ellis3dp.com/Print-Tuning-Guide/)
 
  - If you've tried everything else and don't get consistent quality, consider a Bondtech CHT 0.4mm or 0.6mm nozzle instead. If you go for a larger nozzle, you will need to adjust pressure advance with a pressure advance tower and potentially  the main change in the slicer is the "line width" to something in the 0.5 to 0.62 range, though you also increase your layer heights for faster prints and thicker layer lines as well. You may also need to change your flow rate as well.
 
@@ -102,7 +102,7 @@ Due to the above you need to set temperature and flow accordingly, having said t
 
 Dan Nault has graced us with a complete re-work of stock image on the V400.
 His work is recorded over at his Github and you might want to dig in to it if you make detailed prints.
-Find his repo here: https://github.com/danorder/OEM-VANILLA-V400-Klipper-
+Find his repo [here](https://github.com/danorder/OEM-VANILLA-V400-Klipper-)
 
 Now this guide expects you to know about vanilla Klipper and advanced 3d printing, this is **NOT** for any beginner.
 
@@ -116,8 +116,7 @@ To reduce any cold drafts you can use side walls on 2/3 openings, you can find a
 
 If you want to go full enclosure you can add these [doors](https://www.printables.com/model/329660-flsun-v400-door-hinges-doors-updated/comments) designed and tested by the wonderful and talented @Amazon62 leave this guy a tip for his hardships!
 
-
-If you decide to go for a full enclosure I would advice to do something about the [ventilation](https://www.printables.com/model/325471-flsun-v400-upper-plate-risers) [and]( https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version) of the printer, this will require some modding but is mandatory to avoid overheating of the motherboard.
+If you decide to go for a full enclosure I would advice to do something about the ventilation adding [top risers](https://www.printables.com/model/325471-flsun-v400-upper-plate-risers) and [top plate]( https://www.printables.com/model/323798-flsun-v400-top-cover-cut-version) of the printer, this will require some modding but is mandatory to avoid overheating of the motherboard.
 Again designed by the awesome @JohnJacky.
 
 If you get sick of the textured bed there are other options out there from a high quality product from China (YES ITS TRUE!) to the good old whambam plates for V400.
