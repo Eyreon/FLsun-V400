@@ -7,6 +7,10 @@
 # FLsun-V400 new user guide.
 Everything you need to know as a new V400 owner for quality prints.
 
+As a very first step I would advise people to check out the FLsun Youtube channel, they have been cramming out superb video`s to help with about 90% of anything you might bump in to out of the box.
+https://www.youtube.com/@flsun3dprinter
+
+
 Now this is not a guaranteed method but it covers most of the issues out there and staying close to FlSun stock as much as possible, nor will this talk about what happens with a lack of maintenance.
 
 There have been many topics and posts around a few common shortcomings of this machine.
