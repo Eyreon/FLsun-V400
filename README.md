@@ -69,7 +69,7 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
 
   ## Orcaslicer:
 
- - Orcaslicer comes with a great standard profile out of the box, ideal for beginners.
+ - Orcaslicer comes with a great standard profile out of the box, ideal for beginners and it has my primary recommendation.
  - After an initial setup and calibration of the printer you should be all good to go after two minor changes to the basic profile.
  - The minor adjustments would be to change to either lines or gyroid infill, same rule applies here 15% for smaller prints and 25% for larger prints.
  - add this to your gcode after G28 <code>BED_MESH_PROFILE LOAD=default</code> > if you use a different naming convention for your printers config, please use that name instead.
@@ -84,6 +84,7 @@ If you are up to the task I would suggest going to vanilla Klipper state, for me
  - For nozzle dragging the main advice is to use gyroid infill, 15% for small prints and 25% for large print for a smooth top surface, Delta's don't do well with grid infill due to the way the effector moves at this high speed. Also note that Combing shoule be off.
  - In some cases a z-hop of .5/.8 mm is advised however the profile I use does not require this and creates quality prints.
  - A great print tuning guide [here](https://ellis3dp.com/Print-Tuning-Guide/)
+ - Vishal shared his cura settings in depth with snips located [here](https://github.com/vishalchaudhary/Final-Cura-Profiles-for-FLSUN-V400)
 
  - If you've tried everything else and don't get consistent quality, consider a Bondtech CHT 0.4mm or 0.6mm nozzle instead. If you go for a larger nozzle, you will need to adjust pressure advance with a pressure advance tower and potentially  the main change in the slicer is the "line width" to something in the 0.5 to 0.62 range, though you also increase your layer heights for faster prints and thicker layer lines as well. You may also need to change your flow rate as well.
 
